@@ -1,5 +1,3 @@
-# redux-hooks
-
 # Hooks for React-Redux:
 Redux hook API can replace the higher-order component, “connect()”, with hooks like “useSelector” and “useDispatch”. Currently, React-Redux provides 3 hooks:
 * useSelector(): useSelector hook is a replacement of the mapStateToProps. It runs whenever function component renders. Its purpose is to extract data from the Redux store state.
